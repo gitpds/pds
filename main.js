@@ -15,3 +15,12 @@
 console.log(document.querySelector(`.news-letter`).textContent = `Replaced newsletter`);
 
 document.querySelector(`.email-address`).textContent = 'Please enter your email address';
+
+document.querySelector(`.button`).addEventListener(`click`, function(){
+    console.log(document.querySelector(`.guess`).value);
+}) ;
+
+//Select the button using querey selector
+//addEventListener to determine 
+//write a function as the second argument
+//First argument is name of event looking for
