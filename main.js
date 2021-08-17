@@ -13,3 +13,5 @@
 
 
 console.log(document.querySelector(`.news-letter`).textContent = `Replaced newsletter`);
+
+document.querySelector(`.email-address`).textContent = 'Please enter your email address';
