@@ -11,14 +11,7 @@
 
 //Use Postman to authenticate
 
-
-console.log(document.querySelector(`.news-letter`).textContent = `Replaced newsletter`);
-
-document.querySelector(`.email-address`).textContent = 'Please enter your email address';
-
-document.querySelector(`.button`).addEventListener(`click`, function(){
-    console.log(document.querySelector(`.guess`).value);
-}) ;
+console.log(`js page`);
 
 
 
