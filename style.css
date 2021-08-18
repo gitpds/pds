@@ -1,3 +1,9 @@
+body{
+  background: linear-gradient(45deg, aliceblue,  darkgray, lightskyblue); 
+
+}
+
+
 h1 {
   color: rgb(25, 0, 255);
   text-align: left;
