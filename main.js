@@ -20,6 +20,8 @@ document.querySelector(`.button`).addEventListener(`click`, function(){
     console.log(document.querySelector(`.guess`).value);
 }) ;
 
+
+
 //Select the button using querey selector
 //addEventListener to determine 
 //write a function as the second argument
