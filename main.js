@@ -13,6 +13,7 @@
 
 console.log(`js page`);
 
+document.querySelector(`.news-letter`)
 
 
 //Select the button using querey selector
