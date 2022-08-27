@@ -1,2 +1,6 @@
 
 main.js
+
+.python_packages
+__pycache__
+.venv
